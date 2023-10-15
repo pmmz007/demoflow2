@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "thH4moYkzS7N1vbRn3PogKgfG9HbbuFsFLC1YJLDwffkSfPNDUEg/ZS0xtYMdo4thMcTl5bDjZTIQp/y6pjTfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morse\\source\\repos\\dockerdeploydemo\\dockerdeploydemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morse\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
