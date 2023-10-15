@@ -31,4 +31,4 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-    - run: cat /etc/*release*
+    - run: ls /etc/
