@@ -26,3 +26,9 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+  
+  second job:
+    runs-on: ubuntu-latest
+    depend: build
+    steps:
+    - run: dotnet version
