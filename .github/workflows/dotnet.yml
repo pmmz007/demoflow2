@@ -29,6 +29,6 @@ jobs:
   
   second job:
     runs-on: ubuntu-latest
-    depends: build
+    needs: build
     steps:
     - run: dotnet version
